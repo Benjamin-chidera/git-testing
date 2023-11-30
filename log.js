@@ -1,1 +1,1 @@
-console.log("changed");
+console.log("changes is added to database");
